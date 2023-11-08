@@ -1,0 +1,16 @@
+{
+  "name": "compensation-gpt",
+  "version": "1.0.0",
+  "description": "Figures experimentation with LLM",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
