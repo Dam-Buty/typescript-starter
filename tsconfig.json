@@ -20,7 +20,6 @@
     "build"
   ],
   "include": [
-    "src/**/*.ts",
-    "experiments/**/*.ts"
+    "src/**/*.ts"
   ]
 }

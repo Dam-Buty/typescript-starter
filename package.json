@@ -1,7 +1,7 @@
 {
-  "name": "compensation-gpt",
+  "name": "typescript-starter",
   "version": "1.0.0",
-  "description": "Figures experimentation with LLM",
+  "description": "A basic starter template for Typescript projects ",
   "main": "src/index.ts",
   "scripts": {
     "start": "ts-node src"
